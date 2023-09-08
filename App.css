@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #747e97d5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(30px + 2vmin);
+  color: rgb(9, 22, 24);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+
+
+
